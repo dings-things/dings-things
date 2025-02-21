@@ -2,14 +2,14 @@
 
 <h3 >💡 My Most Used Languages 💡</h3>
 <p >
-  <a href="https://github.com/wjddn3711">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjddn3711&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+  <a href="https://github.com/dings-things">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dings-things&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
 </p>
 <h3>💡 My Git Stats 💡</h3>
 <p >
   <a href="https://github.com/${깃닉네임}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wjddn3711&&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dings-things&&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 
 # :mailbox_with_mail: Contact Me?
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=mailto:wjddn3711@gmail.com)](https://velog.io/@wjddn3711)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjddn3711@gmail.com)](mailto:wjddn3711@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjddn3711@naver.com)](mailto:wjddn3711@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=mailto:dings-things@gmail.com)](https://velog.io/@dings-things)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dings-things@gmail.com)](mailto:dings-things@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dings-things@naver.com)](mailto:dings-things@naver.com)
 
