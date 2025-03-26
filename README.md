@@ -29,9 +29,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=Kafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)
-![S3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=S3&logoColor=white)
+![Kafka](https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![S3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
