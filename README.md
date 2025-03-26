@@ -12,7 +12,7 @@
 </p>
 
 
-
+Check out my [Blog](https://dingyu.dev)
 
 
 # Skills
@@ -36,10 +36,9 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-
+![Jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 
 # Contact Me?
-[![Blog](https://img.shields.io/badge/googlehome-4285F4.svg?&style=for-the-badge&logo=googlehome&logoColor=white)](https://dingyu.dev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjddn3711@gmail.com)](mailto:wjddn3711@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjddn3711@naver.com)](mailto:wjddn3711@naver.com)
 
