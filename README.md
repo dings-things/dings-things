@@ -39,7 +39,7 @@
 
 
 # Contact Me?
-[![Blog](https://img.shields.io/badge/googlehome-4285F4?style=flat-square&logo=myblog&logoColor=white&link=https://dingyu.dev)](https://dingyu.dev)
+[![Blog](https://img.shields.io/badge/googlehome-4285F4?style=flat-square&logo=googlehome&logoColor=white&link=https://dingyu.dev)](https://dingyu.dev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjddn3711@gmail.com)](mailto:wjddn3711@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjddn3711@naver.com)](mailto:wjddn3711@naver.com)
 
